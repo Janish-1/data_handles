@@ -8,7 +8,7 @@ setup(
     description="A simple data handling and encryption package.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourgithub/crypto_package",
+    url="https://github.com/Janish-1/data_handles",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
