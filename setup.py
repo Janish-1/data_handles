@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="data_handles",
-    version="0.1.0",
+    version="0.1.2",
     author="Janish Pancholi",
     author_email="janish.pancholi11@gmail.com",
     description="A simple data handling and encryption package.",
